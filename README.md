@@ -1,12 +1,4 @@
 - 👋 Hi, I’m Yassine Abbou
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning software engeneering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in web dev 
+- 🌱 I’m a software engineer student at the National School of AI and Digital Technology
 
-<!---
-yassine4real/yassine4real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
